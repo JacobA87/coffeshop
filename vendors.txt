@@ -1,6 +1,3 @@
-en endring
-ny endring
 
-enda en endring
 
-another change
+nother change
